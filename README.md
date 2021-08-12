@@ -1,5 +1,7 @@
 ## 海外appleid注册教程
 
+### [如果此教程对您有用，请点个小星星，谢谢支持！](https://github.com/kxswgj/appleid-register)
+
 1.首先，进入 [苹果官方网站](https://appleid.apple.com)，点击下面 创建您的Apple ID
 
 2.这里以美国为例，国家或地区选择 美国，填写注册账号信息后，点击 继续
@@ -18,3 +20,7 @@ Conditions的选项打开后，点击右上角Next。
 填写完成之后点击右上角 Next
 
 8.大功告成，现在就可以开始使用了
+
+### [如果不想浪费时间，也可以直接登陆这里分享的appleid](https://github.com/kxswgj/appleid-free)
+
+### [点击这里生成美国身份信息](https://www.fakenamegenerator.com/gen-random-us-us.php)
